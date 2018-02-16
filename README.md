@@ -34,6 +34,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Stray FM: [Communities step in as bus miles tumble in North Yorkshire](https://www.strayfm.com/news/local-news/2505337/communities-step-in-as-bus-miles-tumble-in-north-yorkshire/)
 * Bob FM: [Hertfordshire transport bosses urged to consider vulnerable people when making cuts to bus routes](http://www.bobfm.co.uk/news/local-news/hertfordshire-transport-bosses-urged-to-consider-vulnerable-people-when-making-cuts-to-bus-routes/)
 * Mix 96: [Bus numbers UP in Bucks, defying national trend.](https://www.mix96.co.uk/news/local/2505594/bus-numbers-up-in-bucks-defying-national-trend/)
+* Devon Live: [Almost 10 per cent drop in number of passengers using buses in Devon](https://www.devonlive.com/news/devon-news/almost-10-per-cent-drop-1222647)
 * BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
 * The story was also covered by: BBC Breakfast television, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
