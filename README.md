@@ -32,6 +32,8 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Norfolk: Eastern Daily Press: [Number of Norfolk bus passengers drops by several million within three years](http://www.edp24.co.uk/news/environment/millions-fewer-bus-journeys-in-norfolk-suffolk-cambridgeshire-1-5396920)
 * Gloucestershire Live: [Millions of miles of bus services have been lost in Gloucestershire](https://www.gloucestershirelive.co.uk/news/millions-miles-bus-services-been-1220461)
 * Stray FM: [Communities step in as bus miles tumble in North Yorkshire](https://www.strayfm.com/news/local-news/2505337/communities-step-in-as-bus-miles-tumble-in-north-yorkshire/)
+* BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
+* The story was also covered by: BBC Breakfast television, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
 
 ## Get the data
