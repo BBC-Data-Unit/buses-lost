@@ -36,6 +36,9 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Mix 96: [Bus numbers UP in Bucks, defying national trend.](https://www.mix96.co.uk/news/local/2505594/bus-numbers-up-in-bucks-defying-national-trend/)
 * Devon Live: [Almost 10 per cent drop in number of passengers using buses in Devon](https://www.devonlive.com/news/devon-news/almost-10-per-cent-drop-1222647)
 * Portsmouth: The News: [Bus travellers are being ‘abandoned’ by cuts to routes](https://www.portsmouth.co.uk/news/bus-travellers-are-being-abandoned-by-cuts-to-routes-1-8382020)
+* Birmingham Live: [Revealed: The million-mile impact of Birmingham's axed bus routes](https://www.birminghammail.co.uk/news/midlands-news/revealed-million-mile-impact-birminghams-14293402)
+* Transport Network: [Bus travel falls by 20% in Wales](https://transport-network.co.uk/Bus-travel-falls-by-20-in-Wales/14826)
+* Coventry Telegraph: [This is the million-mile impact of the Midlands' axed bus routes](https://www.coventrytelegraph.net/news/million-mile-impact-midlands-axed-14307450)
 * BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
 * The story was also covered by: the BBC News Channel, BBC Breakfast television, BBC Radio 2's Jeremy Vine show, BBC North West, CFM Radio in Carlisle, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
