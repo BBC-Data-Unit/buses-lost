@@ -41,6 +41,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Coventry Telegraph: [This is the million-mile impact of the Midlands' axed bus routes](https://www.coventrytelegraph.net/news/million-mile-impact-midlands-axed-14307450)
 * Lynn News: [Big fall revealed in Norfolk bus route coverage](https://www.lynnnews.co.uk/news/big-fall-revealed-in-norfolk-bus-route-coverage-1-8384977)
 * Wiltshire: Gazette & Herald: [A million miles have vanished from our bus routes](http://www.gazetteandherald.co.uk/news/16038542.A_million_miles_have_vanished_from_our_bus_routes/)
+* Northumberland Gazette: [Drastic decrease in bus miles in Northumberland](https://www.northumberlandgazette.co.uk/news/drastic-decrease-in-bus-miles-in-northumberland-1-9030008)
 * BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
 * The story was also covered by: the BBC News Channel, BBC Breakfast television, BBC Radio 2's Jeremy Vine show, BBC North West, CFM Radio in Carlisle, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
