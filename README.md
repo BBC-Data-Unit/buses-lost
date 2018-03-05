@@ -43,8 +43,9 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Wiltshire: Gazette & Herald: [A million miles have vanished from our bus routes](http://www.gazetteandherald.co.uk/news/16038542.A_million_miles_have_vanished_from_our_bus_routes/)
 * Northumberland Gazette: [Drastic decrease in bus miles in Northumberland](https://www.northumberlandgazette.co.uk/news/drastic-decrease-in-bus-miles-in-northumberland-1-9030008)
 * St Helens Star: [More than six million bus miles lost in City region since 2013 as national figures hit 28-year low](http://www.sthelensstar.co.uk/news/16049395.More_than_six_million_bus_miles_lost_in_City_region_since_2013_as_national_figures_hit_28_year_low/)
-* Non partner coverage: [Wiltshire bus services ‘lose 1.1 million miles in four years’] (http://www.whitehorsenews.co.uk/blog/2018/02/27/wiltshire-bus-services-lose-1-1-million-miles-in-four-years/)
+* Non partner coverage: [Wiltshire bus services ‘lose 1.1 million miles in four years’](http://www.whitehorsenews.co.uk/blog/2018/02/27/wiltshire-bus-services-lose-1-1-million-miles-in-four-years/)
 * BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
+* BBC Scotland Online: [Figures show decline in bus usage in Scotland](http://www.bbc.co.uk/news/uk-scotland-43225271)
 * The story was also covered by: the BBC News Channel, BBC Breakfast television, BBC Radio 2's Jeremy Vine show, BBC North West, CFM Radio in Carlisle, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
 
