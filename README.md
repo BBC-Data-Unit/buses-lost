@@ -46,6 +46,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Non partner coverage: [Wiltshire bus services ‘lose 1.1 million miles in four years’](http://www.whitehorsenews.co.uk/blog/2018/02/27/wiltshire-bus-services-lose-1-1-million-miles-in-four-years/)
 * BBC Wales Online: [Distance covered by local buses drops by 20% in 10 years](http://www.bbc.co.uk/news/uk-wales-42990217)
 * BBC Scotland Online: [Figures show decline in bus usage in Scotland](http://www.bbc.co.uk/news/uk-scotland-43225271)
+* Slough & South Bucks Express: [Stats show bus passenger decline in Windsor and Slough](https://www.sloughexpress.co.uk/gallery/windsor/128008/stats-show-bus-passenger-decline-in-windsor-and-slough.html)
 * The story was also covered by: the BBC News Channel, BBC Breakfast television, BBC Radio 2's Jeremy Vine show, BBC North West, CFM Radio in Carlisle, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
 
