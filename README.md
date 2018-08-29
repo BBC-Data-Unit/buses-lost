@@ -49,6 +49,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Slough & South Bucks Express: [Stats show bus passenger decline in Windsor and Slough](https://www.sloughexpress.co.uk/gallery/windsor/128008/stats-show-bus-passenger-decline-in-windsor-and-slough.html)
 * The story was also covered by: the BBC News Channel, BBC Breakfast television, BBC Radio 2's Jeremy Vine show, BBC North West, CFM Radio in Carlisle, BBC Wiltshire, BBC Radio Lincolnshire, BBC Radio Scotland, BBC Radio Devon, BBC Newcastle, BBC Radio Cumbria, BBC Radio York, BBC Surrey, BBC Sussex, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Cornwall, BBC Tees, BBC Radio Nottingham
 
+In August the story was mentioned in a [Guardian report](https://www.theguardian.com/uk-news/2018/aug/18/london-bus-cuts-to-hit-working-class-hardest-says-watchdog) on bus cuts in London.
 
 ## Get the data
 
