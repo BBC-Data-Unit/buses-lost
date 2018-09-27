@@ -63,6 +63,8 @@ In August the story was mentioned in a [Guardian report](https://www.theguardian
 * Bar chart: Bus vehicle miles lost by English region
 * Data pic: Key facts about Britain's bus network
 
+In addition you can [see a treemap of the 2013-14 figures here](https://public.flourish.studio/visualisation/114456/)
+
 ## Background and briefing
 
 * [Project briefing](https://docs.google.com/document/d/1CEcTMcso5PpOwbEPRmVbpsiekearafw-zX4ctv-V-oA/edit#heading=h.z6ne0og04bp5)
